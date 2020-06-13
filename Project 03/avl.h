@@ -1,6 +1,7 @@
 //This is a fully functional AVL tree. This tree will rotate and balance when a new key is inserted
 //into the tree. 
- 
+//CS 251 Project 3 UIC <Manuel M Martinez>  
+
 #pragma once
 
 #include <iostream>
