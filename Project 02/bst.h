@@ -2,6 +2,7 @@
 //This tree is able to store a key and also a struct that has stored all the information that we need about each individual movie. In addition the tree has private and public functions
 //that allow it to share information with the user upon being called. Information such as the height, size, and the information stored in each individual struct. Although not all functions
 //will be used in this specific project it is still helpfull to have them in the scenario that the program is modified for other purposes. In addition they are useful for debugging.  
+//CS 251 Project 2 UIC <Manuel M Martinez> 
 
 #pragma once
 
