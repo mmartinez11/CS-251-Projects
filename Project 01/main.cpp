@@ -1,4 +1,4 @@
-//
+// CS 251 Project 1 UIC <Manuel M Martinez> 
 // Project #01: input movie review data from a file, and output moviename, # of 
 // reviews, average review, and # of reviews per star.
 //
